@@ -16,10 +16,10 @@ I'm Devesh Dhanwani
 ### 🏅 Certifications and Badges
 - HackerRank (https://www.hackerrank.com/profile/devesh_dhanwani1)
 ### 🧰 Tools & Languages
-[Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-[Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat&logo=dart&logoColor=white)
-[Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)
-[MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=flat&logo=mysql&logoColor=white)
-[Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat&logo=supabase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
  
