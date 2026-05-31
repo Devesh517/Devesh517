@@ -1,10 +1,10 @@
 ## Hi there 👋
 I'm Devesh Dhanwani
 ### 🛠️ Tech Stack
-- 💻 Languages: Java, C, Dart, C++
+- 💻 Languages: Java, C, Python, C++
 - 🌐 Web: HTML, CSS, JavaScript
 - 📱 Mobile: Flutter (Hybrid App Development)
-- 🛢️ Database: MySQL,Supabase
+- 🛢️ Database: MySQL
 ### 📚 General Learning
 - 🌱 I’m currently learning Dart Programming and Flutter
  ### 🛠️ Working On
@@ -20,6 +20,6 @@ I'm Devesh Dhanwani
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
 
  
