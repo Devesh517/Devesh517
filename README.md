@@ -11,6 +11,12 @@ I'm Devesh Dhanwani
 - 🔭 I’m currently working on a Hybrid app, DSA and Database
 ### 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh_Dhanwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-dhanwani-9351a2312/)
+
+[![X](https://img.shields.io/badge/X-@DhanwaniDe33509-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhanwaniDe33509)
+
+[![GitHub](https://img.shields.io/badge/GitHub-DeveshDhanwani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
 ### 🏅 Certifications and Badges
 - HackerRank (https://www.hackerrank.com/profile/devesh_dhanwani1)
 ### 🧰 Tools & Languages
