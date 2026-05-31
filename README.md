@@ -70,7 +70,7 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devesh517&layout=compact&theme=tokyonight)
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge)
 
