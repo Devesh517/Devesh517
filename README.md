@@ -9,7 +9,6 @@ I'm Devesh Dhanwani
 - 🌱 I’m currently learning Dart Programming and Flutter
  ### 🛠️ Working On
 - 🔭 I’m currently working on a Hybrid app, DSA and Database
-- 🌐 Making my portfolio website
 ### 📫  Connect with me
 -  [LinkedIn] : (https://www.linkedin.com/in/devesh-dhanwani-9351a2312/)
 - [X(Twitter)] : (https://x.com/DhanwaniDe33509)
@@ -27,3 +26,13 @@ I'm Devesh Dhanwani
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
