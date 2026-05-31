@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Devesh Dhanwani
 
 ### 🚀 BCA Student | Aspiring Software Developer | Flutter & Java Enthusiast
-💡 Passionate about Software Development, Mobile App Development, and Problem Solving.
-🌱 Currently learning **Dart, Flutter, Spring Boot, DSA, and Database Management**
-🎯 Goal: Become a skilled Software Developer and build impactful applications.
+  💡 Passionate about Software Development, Mobile App Development, and Problem Solving.
+   🌱 Currently learning **Dart, Flutter, Spring Boot, DSA, and Database Management**
+   🎯 Goal: Become a skilled Software Developer and build impactful applications.
 ---
 
 ## 👨‍💻 About Me
