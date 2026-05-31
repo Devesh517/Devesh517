@@ -1,13 +1,9 @@
 # Hi there 👋, I'm Devesh Dhanwani
 
 ### 🚀 BCA Student | Aspiring Software Developer | Flutter & Java Enthusiast
-
 💡 Passionate about Software Development, Mobile App Development, and Problem Solving.
-
 🌱 Currently learning **Dart, Flutter, Spring Boot, DSA, and Database Management**
-
 🎯 Goal: Become a skilled Software Developer and build impactful applications.
-
 ---
 
 ## 👨‍💻 About Me
@@ -22,14 +18,11 @@
 ---
 
 ## 🛠️ Currently Working On
-
 - 🔭 Flutter Hybrid Application
 - 📊 Database Management Systems
 - 🧠 Data Structures & Algorithms
 - 🌐 Personal Portfolio Website
-
 ---
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh_Dhanwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-dhanwani-9351a2312/)
@@ -39,7 +32,6 @@
 ---
 
 ## 🏅 Certifications
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/devesh_dhanwani1)
 
 ---
@@ -102,7 +94,6 @@
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Devesh517&theme=tokyonight)](https://git.io/streak-stats)
-
 ---
 
 ⭐ Thanks for visiting my profile!
