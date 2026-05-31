@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Devesh Dhanwani
 
-### 🚀 BCA Student | Aspiring Software Developer | Flutter & Java Enthusiast
+###  BCA Student | Aspiring Software Developer | Flutter & Java Enthusiast
 
-💡 Passionate about Software Development, Mobile App Development, and Problem Solving.
+Passionate about Software Development, Mobile App Development, and Problem Solving.
 
-🌱 Currently learning **Dart, Flutter, Spring Boot, DSA, and Database Management**
+Currently learning **Dart, Flutter, Spring Boot, DSA, and Database Management**
 
-🎯 Goal: Become a skilled Software Developer and build impactful applications.
+Goal: Become a skilled Software Developer and build impactful applications.
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 BCA Student
@@ -33,9 +32,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Devesh517-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devesh517)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devesh.dhanwani?igsh=MXQ2aDRvNHR4MGoxdg==)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=devesh.dhanwani2005@gmail.com)
----
-## 🏅 Certifications
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/devesh_dhanwani1)
 ---
 ## 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -66,19 +62,12 @@
 ---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Devesh517&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devesh517&layout=compact&theme=tokyonight)
 ---
-
 ## Profile Views
-
 ![](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge)
-
 ---
-
 ## 🔥 GitHub Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Devesh517&theme=tokyonight)](https://git.io/streak-stats)
 ---
-
 ⭐ Thanks for visiting my profile!
