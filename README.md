@@ -32,7 +32,7 @@
 [![X](https://img.shields.io/badge/X-@DhanwaniDe33509-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhanwaniDe33509)
 [![GitHub](https://img.shields.io/badge/GitHub-Devesh517-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devesh517)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devesh.dhanwani?igsh=MXQ2aDRvNHR4MGoxdg==)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devesh.dhanwani2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-deveshdhanwani@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devesh.dhanwani2005@gmail.com)
 ---
 
 ## 🏅 Certifications
