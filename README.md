@@ -71,39 +71,17 @@ I enjoy solving programming problems, developing applications, working with data
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Backend Skills
-
-- REST API Development
-- API Integration
-- Spring Boot
-- Flask
-- Java Web Development
-- HTTP & JSON
-- Backend-Database Integration
-
 ---
 
 ## 🖥️ Desktop Application Development
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
 
-- JavaFX Desktop Applications
-- GUI Development
-- Event Handling
-- Forms & Tables
-- JavaFX UI Components
-
 ---
 
 ## 📄 Document & PDF Processing
 
 ![Apache](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
-
-- **Apache PDFBox**
-- PDF Generation
-- PDF Text & Data Processing
-- Report Generation
-- Document Processing
 
 ---
 
@@ -112,17 +90,6 @@ I enjoy solving programming problems, developing applications, working with data
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Database Skills
-
-- MySQL
-- SQL
-- Database Design
-- CRUD Operations
-- Joins & Queries
-- Database Connectivity
-- Firebase
-- Supabase
 
 ---
 
@@ -137,45 +104,7 @@ I enjoy solving programming problems, developing applications, working with data
 
 ---
 
-# 📚 Core Skills
-
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Problem Solving
-- Database Management
-- SQL & MySQL
-- REST API Development
-- Backend Development
-- API Integration
-- JavaFX
-- PDF Generation & Processing
-- Git & GitHub
-- Debugging & Troubleshooting
-- Software Development Fundamentals
-
----
-
 # 🚀 Featured Projects
-
-## 🚦 TrafficBuddy – Smart Route & Traffic Assistant
-
-A web-based navigation application that provides route planning, weather information and route customization.
-
-### Tech Stack
-
-`HTML` `CSS` `JavaScript` `Leaflet` `Spring Boot` `OpenRouteService API` `Open-Meteo API`
-
-### Key Features
-
-- 🗺️ Interactive maps
-- 🚗 Route planning
-- 🛣️ Avoid tolls and highways
-- 🌤️ Weather information
-- 🤖 Smart assistant interface
-- 🔌 REST API based backend
-- 📍 Location-based route generation
-
----
 
 ## 🏫 EduManage – School Management System
 
