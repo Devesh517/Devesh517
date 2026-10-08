@@ -238,7 +238,7 @@ Real-World Projects & Deployment
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devesh517&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devesh517&show_icons=true&theme=tokyonight&hide_border=true" height="180"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh517&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -250,7 +250,6 @@ Real-World Projects & Deployment
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge&label=PROFILE+VIEWS)---
 
------
 
 # 📫 Connect With Me
 
