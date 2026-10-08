@@ -235,25 +235,22 @@ Real-World Projects & Deployment
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Devesh517&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devesh517&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh517&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devesh517&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Devesh517&theme=tokyonight)](https://git.io/streak-stats)
 
----
+## 👀 Profile Views
 
-# 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge&label=PROFILE+VIEWS)---
 
-![](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge)
-
----
+-----
 
 # 📫 Connect With Me
 
