@@ -1,158 +1,192 @@
 # Hi there 👋, I'm Devesh Dhanwani
 
-### 💻 BCA Student | Aspiring Software Developer | Java & Application Development Enthusiast
+### 💻 BCA Student | Aspiring Software Developer | Java & Full-Stack Developer
 
-I'm a **BCA student and aspiring Software Developer** interested in building practical, scalable, and user-focused applications.
+I'm a **BCA student and aspiring Software Developer** interested in building practical, user-focused and real-world applications.
 
-I work with **Java, Python, JavaScript, Dart, Spring Boot, Flask, Flutter, React, MySQL, Firebase, and Supabase**, and I'm continuously improving my skills in **Data Structures & Algorithms, Backend Development, REST APIs, Databases, and Problem Solving**.
+My current focus is on **Java, Spring Boot, Python, JavaScript, React, Tailwind CSS, JavaFX, MySQL, REST APIs, and Data Structures & Algorithms**.
 
-🎯 **Goal:** Become a strong Software Developer by building real-world projects and continuously improving my development and problem-solving skills.
+I enjoy solving programming problems, developing applications, working with databases, integrating APIs, and turning ideas into functional projects.
+
+🎯 **Goal:** Become a strong Software Developer with solid programming, backend, database, and problem-solving skills.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 BCA Student
-- 💻 Interested in **Software Development, Backend Development & Application Development**
-- ☕ Strong interest in **Java and Backend Development**
-- 🌐 Building web applications using **HTML, CSS, JavaScript, React & Tailwind CSS**
-- 📱 Exploring application development using **Flutter & Dart**
-- ⚙️ Building REST APIs and backend applications using **Spring Boot & Flask**
-- 🗄️ Working with **MySQL, Firebase & Supabase**
-- 🧠 Practicing **Data Structures & Algorithms and Problem Solving**
-- 🔌 Working with **REST APIs and third-party API integrations**
-- 🚀 Building and deploying projects using **GitHub, Render and other development tools**
-- 🔐 Have practical exposure to **Cyber Security and Ethical Hacking**
-- 📚 Continuously learning new technologies through projects, internships and hands-on development
+- 💻 Interested in **Software Development & Full-Stack Development**
+- ☕ Strong focus on **Java and Backend Development**
+- ⚙️ Building backend applications using **Spring Boot & Flask**
+- 🌐 Developing web applications using **HTML, CSS, JavaScript, React & Tailwind CSS**
+- 🖥️ Building desktop applications using **JavaFX**
+- 📄 Working with **Apache PDFBox** for PDF generation and document processing
+- 🗄️ Working with **MySQL**
+- 🔌 Building and integrating **REST APIs**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 📊 Working with **Excel and PDF-based data processing**
+- 🚀 Using **Git & GitHub** for version control and project management
+- 📚 Continuously improving my development and problem-solving skills
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 Currently Working On
 
-- 🔭 Building and improving **Full-Stack & Backend Projects**
 - ☕ Improving **Java & Spring Boot**
-- 🧠 Practicing **DSA and coding problems**
-- 🌐 Working with **React & Tailwind CSS**
-- 📱 Exploring **Flutter & Dart**
-- 🗄️ Working with **MySQL, Firebase & Supabase**
-- 🔌 Building applications using **REST APIs and external API integrations**
+- 🧠 Practicing **DSA and problem solving**
+- 🌐 Building **Full-Stack Web Applications**
+- ⚛️ Working with **React & Tailwind CSS**
+- 🖥️ Exploring **JavaFX Desktop Applications**
+- 📄 Working with **Apache PDFBox for PDF generation**
+- 🗄️ Improving **SQL & Database Management**
+- 🔌 Building applications using **REST APIs**
 - 🚀 Improving project deployment and GitHub workflow
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-### 🌐 Frontend & Web Development
+## 🌐 Frontend & Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ---
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Backend Skills
+
+- REST API Development
+- API Integration
+- Spring Boot
+- Flask
+- Java Web Development
+- HTTP & JSON
+- Backend-Database Integration
 
 ---
 
-### 📱 Mobile Development
+## 🖥️ Desktop Application Development
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
+
+- JavaFX Desktop Applications
+- GUI Development
+- Event Handling
+- Forms & Tables
+- JavaFX UI Components
 
 ---
 
-### 🗄️ Databases & Backend Services
+## 📄 Document & PDF Processing
+
+![Apache](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
+
+- **Apache PDFBox**
+- PDF Generation
+- PDF Text & Data Processing
+- Report Generation
+- Document Processing
+
+---
+
+## 🗄️ Databases & Backend Services
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+### Database Skills
+
+- MySQL
+- SQL
+- Database Design
+- CRUD Operations
+- Joins & Queries
+- Database Connectivity
+- Firebase
+- Supabase
+
 ---
 
-### 🔌 APIs & Integrations
-
-- 🌍 OpenRouteService API
-- 🌤️ Open-Meteo API
-- 🔥 Firebase Services
-- ⚡ Supabase
-- 🔗 REST APIs
-- 🗺️ Map & Location APIs
-
----
-
-### 🧰 Tools & Development Environment
+## 🧰 Tools & Development Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
-## 📚 Core Skills
+# 📚 Core Skills
 
-- Data Structures & Algorithms
 - Object-Oriented Programming
+- Data Structures & Algorithms
 - Problem Solving
 - Database Management
 - SQL & MySQL
 - REST API Development
 - Backend Development
 - API Integration
+- JavaFX
+- PDF Generation & Processing
 - Git & GitHub
 - Debugging & Troubleshooting
-- Basic Software Development Practices
+- Software Development Fundamentals
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚦 TrafficBuddy – Smart Route & Traffic Assistant
+## 🚦 TrafficBuddy – Smart Route & Traffic Assistant
 
 A web-based navigation application that provides route planning, weather information and route customization.
 
-**Tech Stack:**  
+### Tech Stack
+
 `HTML` `CSS` `JavaScript` `Leaflet` `Spring Boot` `OpenRouteService API` `Open-Meteo API`
 
-**Key Features:**
+### Key Features
+
 - 🗺️ Interactive maps
 - 🚗 Route planning
 - 🛣️ Avoid tolls and highways
 - 🌤️ Weather information
-- 🤖 Smart assistant/chatbot interface
+- 🤖 Smart assistant interface
 - 🔌 REST API based backend
+- 📍 Location-based route generation
 
 ---
 
-### 🏫 EduManage – School Management System
+## 🏫 EduManage – School Management System
 
 A full-stack school management system designed to manage students, teachers, classes, attendance and salary-related operations.
 
-**Tech Stack:**  
+### Tech Stack
+
 `Python` `Flask` `MySQL` `OpenPyXL` `ReportLab`
 
-**Key Features:**
+### Key Features
+
 - 👨‍🎓 Student Management
 - 👨‍🏫 Teacher Management
 - 🏫 Class Management
@@ -160,56 +194,75 @@ A full-stack school management system designed to manage students, teachers, cla
 - 💰 Salary Management
 - 📊 Excel-based data processing
 - 📄 PDF report generation
-- 🔐 Role-based access and management
+- 🔐 Role-based access
+- 🗄️ MySQL database integration
 
 ---
 
-### 💧 AquaSafe – Groundwater Purity Monitoring System
+## 💧 AquaSafe – Groundwater Purity Monitoring System
 
 A project focused on monitoring groundwater quality and calculating groundwater pollution indicators.
 
-**Technology:**  
+### Technology
+
 `Python` `Data Processing` `HMPI Calculation` `Web Technologies`
+
+### Key Features
+
+- Groundwater quality monitoring
+- HMPI calculation
+- Data processing
+- Water quality analysis
+- Result visualization
 
 ---
 
-### 🏥 BioTrack – Smart Health Monitoring System
+## 🏥 BioTrack – Smart Health Monitoring System
 
-A Java-based application for storing and managing health-related measurements.
+A Java-based health monitoring and record management application.
 
-**Tech Stack:**  
-`Java` `MySQL` `XAMPP`
+### Tech Stack
 
-**Features:**
-- ❤️ Heart Rate Monitoring
-- 🩺 Blood Pressure Records
-- 🩸 Blood Sugar / SpO₂ Records
-- ⚖️ Height, Weight & BMI
-- 📄 Report Management
+`Java` `MySQL` `XAMPP` `JavaFX` `Apache PDFBox`
+
+### Features
+
+- ❤️ Health record management
+- 🩺 Blood pressure records
+- ❤️ Heart rate records
+- 🩸 Blood sugar / SpO₂ records
+- ⚖️ Height, weight & BMI calculation
+- 📄 PDF report generation
+- 🗄️ MySQL database integration
 - 🌐 Multi-language support
 
 ---
 
-## 🔐 Cyber Security Experience
+# 🧠 DSA & Problem Solving
 
-I also have practical exposure to **Cyber Security and Ethical Hacking** through internship-based learning.
+Currently practicing Data Structures & Algorithms with a focus on:
 
-### Technologies Explored
-
-- 🐧 Kali Linux
-- 🔎 Nmap
-- 🌐 Nikto
-- 🔐 Basic Network Security
-- 🛡️ Security Testing Fundamentals
+- Arrays
+- Strings
+- Two Pointers
+- Sliding Window
+- Linked Lists
+- Stack
+- Queue
+- Searching
+- Sorting
+- Recursion
+- Problem-solving patterns
+- LeetCode problems
 
 ---
 
-## 📈 My Learning Journey
+# 📈 My Development Journey
 
 ```text
 Programming Fundamentals
         ↓
-Java / C / C++
+C / C++ / Java
         ↓
 Object-Oriented Programming
         ↓
@@ -219,13 +272,15 @@ Web Development
         ↓
 Python & Flask
         ↓
+JavaFX Desktop Development
+        ↓
 Spring Boot & REST APIs
         ↓
 React & Tailwind CSS
         ↓
-Flutter & Dart
-        ↓
 Firebase & Supabase
+        ↓
+API Integration
         ↓
 DSA & Problem Solving
         ↓
@@ -234,22 +289,24 @@ Real-World Projects & Deployment
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 ```text
 ☕ Java & Spring Boot
 🧠 Data Structures & Algorithms
 🌐 Full-Stack Development
 🔌 REST APIs
-🗄️ Databases
-📱 Flutter & Dart
+🗄️ MySQL & Database Management
 ⚛️ React & Tailwind CSS
-🚀 Project Development & Deployment
+🖥️ JavaFX
+📄 Apache PDFBox
+🔥 Firebase & Supabase
+🚀 Real-World Project Development
 ```
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Devesh517&show_icons=true&theme=tokyonight)
 
@@ -257,19 +314,19 @@ Real-World Projects & Deployment
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Devesh517&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## 📈 Profile Views
+# 📈 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge)
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh_Dhanwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-dhanwani-9351a2312/)
 
@@ -285,4 +342,4 @@ Real-World Projects & Deployment
 
 ⭐ Thanks for visiting my profile!
 
-💡 *Always learning. Always building. Always improving.*
+💡 **Always learning. Always building. Always improving.**
