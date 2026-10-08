@@ -248,8 +248,9 @@ Real-World Projects & Deployment
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge&label=PROFILE+VIEWS)---
+![Profile Views](https://komarev.com/ghpvc/?username=Devesh517&style=for-the-badge&label=PROFILE+VIEWS)
 
+---
 
 # 📫 Connect With Me
 
